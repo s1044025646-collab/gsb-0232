@@ -1,0 +1,10 @@
+[
+  { "personId": "P001", "name": "林晓风", "weight": 1 },
+  { "personId": "P002", "name": "陈雨桐", "weight": 3 },
+  { "personId": "P003", "name": "赵启明", "weight": 1 },
+  { "personId": "P004", "name": "孙可欣", "weight": 2 },
+  { "personId": "P005", "name": "周子昂", "weight": 1 },
+  { "personId": "P006", "name": "吴梦琪", "weight": 5 },
+  { "personId": "P007", "name": "郑浩然", "weight": 1 },
+  { "personId": "P008", "name": "王若彤", "weight": 2 }
+]
