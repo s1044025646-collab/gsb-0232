@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    { "id": "C001", "name": "林晓雨", "weight": 1 },
+    { "id": "C002", "name": "陈志远", "weight": 2 },
+    { "id": "C003", "name": "王梦琪", "weight": 1 },
+    { "id": "C004", "name": "赵子昂", "weight": 3 },
+    { "id": "C005", "name": "孙可欣", "weight": 1 },
+    { "id": "C006", "name": "周浩然", "weight": 2 },
+    { "id": "C007", "name": "吴思彤", "weight": 1 },
+    { "id": "C008", "name": "郑凯文", "weight": 4 },
+    { "id": "C009", "name": "冯佳怡", "weight": 1 },
+    { "id": "C010", "name": "何俊熙", "weight": 2 },
+    { "id": "C011", "name": "许静怡", "weight": 1 },
+    { "id": "C012", "name": "罗天佑", "weight": 5 }
+  ]
+}
